@@ -42,3 +42,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+yarn eject 把隐藏的webpack配置文件暴露出来，以便我们可以自定义一些配置，例如：不支持less我们可以自己配置，让其可以解析less文件
